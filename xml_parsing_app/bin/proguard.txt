@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:37
+-keep class com.example.xml_parsing_app.AddProduct { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.example.xml_parsing_app.EditOrRemove { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class com.example.xml_parsing_app.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.example.xml_parsing_app.ShowList { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.example.xml_parsing_app.SignUp { <init>(...); }
+

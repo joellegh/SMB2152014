@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+  <Product>
+    <Id>1</Id>
+    <Name>Product1</Name>
+    <Description>Lorem Ipsum</Description>
+  </Product>
+  <Product>
+    <Id>2</Id>
+    <Name>Product2</Name>
+    <Description>Lorem Ipsum2</Description>
+  </Product>
+  <Product>
+    <Id>3</Id>
+    <Name>Product3</Name>
+    <Description>Lorem Ipsum3</Description>
+  </Product>
+  <Product>
+    <Id>4</Id>
+    <Name>Product4</Name>
+    <Description>Lorem Ipsum4</Description>
+  </Product>
+  <Product>
+    <Id>5</Id>
+    <Name>Product5</Name>
+    <Description>Lorem Ipsum5</Description>
+  </Product>
+  <Product>
+    <Id>6</Id>
+    <Name>Product6</Name>
+    <Description>Lorem Ipsum6</Description>
+  </Product>
+<Product>
+<Id>7</Id>
+<Name>Product7</Name>
+<Description>Description7</Description>
+</Product>
+</Products>
